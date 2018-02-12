@@ -22,8 +22,4 @@ df = df.dropna( axis=0, how='any' )
 print( 'af dropna any', df.shape )
 print( df )
 
-# this line added for github branching exercise
-# this line added for github branching exercise
-# this line added for github branching exercise
-# this line added for github branching exercise
-
+# submit this to the feature branch
